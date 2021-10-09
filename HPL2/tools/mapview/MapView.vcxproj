@@ -86,7 +86,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="MapView.cpp" />
-    <ClCompile Include="..\..\tests\Common\SimpleCamera.cpp" />
+    <ClCompile Include="SimpleCamera.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MapView.h" />
